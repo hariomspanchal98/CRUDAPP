@@ -3,60 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\migrations\\20250729130538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\migrations\\20250729130538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Migrations\\20250729130538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Migrations\\20250729130538_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Pages\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\data\\crudappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\data\\crudappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|c:\\users\\hario\\source\\repos\\crudapp\\crudapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{854BC5B4-B61C-4FE0-9CC2-573CB61A07E6}|CRUDAPP\\CRUDAPP.csproj|solutionrelative:crudapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Data\\CRUDAPPContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Data\\CRUDAPPContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUDAPP\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,32 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDAPP\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T11:52:28.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20250729130538_initial.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Migrations\\20250729130538_initial.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Migrations\\20250729130538_initial.cs",
               "ToolTip": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Migrations\\20250729130538_initial.cs",
               "RelativeToolTip": "CRUDAPP\\Migrations\\20250729130538_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T13:05:38.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Index.cshtml.cs",
@@ -99,12 +108,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:22.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:22.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Index.cshtml",
@@ -112,12 +120,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T13:04:22.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:22.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Delete.cshtml.cs",
@@ -125,12 +132,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:21.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:21.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Delete.cshtml",
@@ -138,12 +144,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T13:04:21.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:21.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Details.cshtml.cs",
@@ -151,12 +156,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:21.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:21.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Details.cshtml",
@@ -164,12 +168,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T13:04:21.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:21.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Edit.cshtml.cs",
@@ -177,12 +180,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:20.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:20.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Edit.cshtml",
@@ -190,12 +192,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T13:04:20.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:20.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Create.cshtml.cs",
@@ -203,12 +204,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:20.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:20.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Pages\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUDAPP\\Pages\\Users\\Create.cshtml",
@@ -216,12 +216,11 @@
               "RelativeToolTip": "CRUDAPP\\Pages\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T13:04:19.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:19.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Program.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Program.cs",
@@ -229,12 +228,11 @@
               "RelativeToolTip": "CRUDAPP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:18.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:18.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CRUDAPPContext.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Data\\CRUDAPPContext.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Data\\CRUDAPPContext.cs",
@@ -242,12 +240,11 @@
               "RelativeToolTip": "CRUDAPP\\Data\\CRUDAPPContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T13:04:17.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T13:04:17.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\hario\\source\\repos\\CRUDAPP\\CRUDAPP\\Model\\User.cs",
               "RelativeDocumentMoniker": "CRUDAPP\\Model\\User.cs",
@@ -255,8 +252,7 @@
               "RelativeToolTip": "CRUDAPP\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T12:58:19.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T12:58:19.547Z"
             }
           ]
         }
